@@ -4,7 +4,7 @@
   </kbd>
 </div>
 
-# API Cuidadores 3.0
+# API Cuidadores 4.0
 
 A API Cuidadores 3.0 é uma aplicação que permite aos usuários se cadastrarem como cuidadores ou usuários, além de adicionar favoritos, estrelas e usuários invisíveis.
 
@@ -12,11 +12,11 @@ A API Cuidadores 3.0 é uma aplicação que permite aos usuários se cadastrarem
 
 | Criador do Projeto |Última Data de Modificação|
 | ------------------ |--------------------------|
-| Thiago Silva Da Cruz | 2023-06-03             |
+| Thiago Silva Da Cruz | 2023-06-26             |
 
 ## Como Utilizar a API
 
-Para utilizar a API Cuidadores 3.0, siga as seguintes instruções:
+Para utilizar a API Cuidadores 4.0, siga as seguintes instruções:
 
 1. Inicie o banco chamado cuidadores disponível no projeto.
 2. Inicie a API e modifique para a rota que você desejar.
