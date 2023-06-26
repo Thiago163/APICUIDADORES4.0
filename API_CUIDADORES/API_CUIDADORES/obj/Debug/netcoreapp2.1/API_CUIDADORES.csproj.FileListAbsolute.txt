@@ -1,0 +1,118 @@
+C:\Users\ggina\OneDrive\Área de Trabalho\CONEXAO_CUIDADORES\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ggina\OneDrive\Área de Trabalho\CONEXAO_CUIDADORES\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ggina\OneDrive\Área de Trabalho\CONEXAO_CUIDADORES\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.deps.json
+C:\Users\ggina\OneDrive\Área de Trabalho\CONEXAO_CUIDADORES\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.runtimeconfig.json
+C:\Users\ggina\OneDrive\Área de Trabalho\CONEXAO_CUIDADORES\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.runtimeconfig.dev.json
+C:\Users\ggina\OneDrive\Área de Trabalho\CONEXAO_CUIDADORES\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\CONEXAO_CUIDADORES\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\CONEXAO_CUIDADORES\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.csproj.AssemblyReference.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\CONEXAO_CUIDADORES\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggina\OneDrive\Área de Trabalho\CONEXAO_CUIDADORES\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.AssemblyInfoInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\CONEXAO_CUIDADORES\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.AssemblyInfo.cs
+C:\Users\ggina\OneDrive\Área de Trabalho\CONEXAO_CUIDADORES\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.csproj.CoreCompileInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\CONEXAO_CUIDADORES\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorAssemblyInfo.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\CONEXAO_CUIDADORES\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorAssemblyInfo.cs
+C:\Users\ggina\OneDrive\Área de Trabalho\CONEXAO_CUIDADORES\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorTargetAssemblyInfo.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\CONEXAO_CUIDADORES\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\CONEXAO_CUIDADORES\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\CONEXAO_CUIDADORES\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.genruntimeconfig.cache
+D:\home\aluno\Desktop\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.deps.json
+D:\home\aluno\Desktop\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.runtimeconfig.json
+D:\home\aluno\Desktop\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.runtimeconfig.dev.json
+D:\home\aluno\Desktop\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.dll
+D:\home\aluno\Desktop\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.pdb
+D:\home\aluno\Desktop\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.csprojAssemblyReference.cache
+D:\home\aluno\Desktop\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.csproj.CoreCompileInputs.cache
+D:\home\aluno\Desktop\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorAssemblyInfo.cache
+D:\home\aluno\Desktop\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorAssemblyInfo.cs
+D:\home\aluno\Desktop\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.AssemblyInfoInputs.cache
+D:\home\aluno\Desktop\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.AssemblyInfo.cs
+D:\home\aluno\Desktop\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorTargetAssemblyInfo.cache
+D:\home\aluno\Desktop\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.dll
+D:\home\aluno\Desktop\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.deps.json
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.runtimeconfig.json
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.runtimeconfig.dev.json
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.csproj.AssemblyReference.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.AssemblyInfoInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.AssemblyInfo.cs
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.csproj.CoreCompileInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorAssemblyInfo.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorAssemblyInfo.cs
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorTargetAssemblyInfo.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.genruntimeconfig.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.deps.json
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.runtimeconfig.json
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.runtimeconfig.dev.json
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.csproj.AssemblyReference.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.AssemblyInfoInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.AssemblyInfo.cs
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.csproj.CoreCompileInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorAssemblyInfo.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorAssemblyInfo.cs
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorTargetAssemblyInfo.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\API_CUIDADORES-main\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.genruntimeconfig.cache
+D:\home\aluno\Downloads\API_CUIDADORES-main (1)\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.deps.json
+D:\home\aluno\Downloads\API_CUIDADORES-main (1)\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.runtimeconfig.json
+D:\home\aluno\Downloads\API_CUIDADORES-main (1)\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.runtimeconfig.dev.json
+D:\home\aluno\Downloads\API_CUIDADORES-main (1)\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.dll
+D:\home\aluno\Downloads\API_CUIDADORES-main (1)\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.pdb
+D:\home\aluno\Downloads\API_CUIDADORES-main (1)\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.csprojAssemblyReference.cache
+D:\home\aluno\Downloads\API_CUIDADORES-main (1)\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.csproj.CoreCompileInputs.cache
+D:\home\aluno\Downloads\API_CUIDADORES-main (1)\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorAssemblyInfo.cache
+D:\home\aluno\Downloads\API_CUIDADORES-main (1)\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorAssemblyInfo.cs
+D:\home\aluno\Downloads\API_CUIDADORES-main (1)\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.AssemblyInfoInputs.cache
+D:\home\aluno\Downloads\API_CUIDADORES-main (1)\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.AssemblyInfo.cs
+D:\home\aluno\Downloads\API_CUIDADORES-main (1)\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorTargetAssemblyInfo.cache
+D:\home\aluno\Downloads\API_CUIDADORES-main (1)\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.dll
+D:\home\aluno\Downloads\API_CUIDADORES-main (1)\API_CUIDADORES-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES2.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.csproj.AssemblyReference.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES2.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES2.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.AssemblyInfoInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES2.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.AssemblyInfo.cs
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES2.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.csproj.CoreCompileInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES2.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorAssemblyInfo.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES2.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorAssemblyInfo.cs
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES2.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES2.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES2.0-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES2.0-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES2.0-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.deps.json
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES2.0-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.runtimeconfig.json
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES2.0-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.runtimeconfig.dev.json
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES2.0-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES2.0-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES2.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorTargetAssemblyInfo.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES2.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.genruntimeconfig.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES3.0-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES3.0-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES3.0-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.deps.json
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES3.0-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.runtimeconfig.json
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES3.0-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.runtimeconfig.dev.json
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES3.0-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES3.0-main\API_CUIDADORES\API_CUIDADORES\bin\Debug\netcoreapp2.1\API_CUIDADORES.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES3.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.csproj.AssemblyReference.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES3.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES3.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.AssemblyInfoInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES3.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.AssemblyInfo.cs
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES3.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.csproj.CoreCompileInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES3.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorAssemblyInfo.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES3.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorAssemblyInfo.cs
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES3.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.RazorTargetAssemblyInfo.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES3.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES3.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\APICUIDADORES3.0-main\API_CUIDADORES\API_CUIDADORES\obj\Debug\netcoreapp2.1\API_CUIDADORES.genruntimeconfig.cache
