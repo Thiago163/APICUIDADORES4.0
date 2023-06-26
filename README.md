@@ -6,7 +6,7 @@
 
 # API Cuidadores 4.0
 
-A API Cuidadores 3.0 é uma aplicação que permite aos usuários se cadastrarem como cuidadores ou usuários, além de adicionar favoritos, estrelas e usuários invisíveis.
+A API Cuidadores 4.0 é uma aplicação que permite aos usuários se cadastrarem como cuidadores ou usuários, além de adicionar favoritos, estrelas e usuários invisíveis.
 
 ## Informações do Projeto
 
